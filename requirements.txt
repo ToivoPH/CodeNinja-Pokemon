@@ -1,1 +1,4 @@
-flask
+numpy
+matplotlib
+pandas
+ipython
