@@ -1,0 +1,20 @@
+Tasks
+1. Data Loading and Exploration
+Load the dataset into a Pandas DataFrame.
+Display the first 5 rows of the dataset to understand its structure.
+CHECK
+
+2. Rank the Top 10 Pokémon
+Rank the top 10 Pokémon based on the following criteria:
+Overall Combat(Total)
+Speed
+Attack (Sp. Atk + Attack)
+Defense (Sp. Def + Defense)
+CHECK
+
+3. Rank Pokémon by Overall Combat
+Rank all Pokémon in descending order based on their overall combat power (Total).
+
+4. Create a Histogram
+Normalize the combat power (Total) of the Pokémon.
+Create a histogram to visualize the normalized combat power distribution
